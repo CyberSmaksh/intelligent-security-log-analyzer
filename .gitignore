@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+siem.db
+submission/
+make_notebook.py
+make_report.py
+gitignore.txt
